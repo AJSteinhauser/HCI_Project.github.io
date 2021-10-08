@@ -1,7 +1,7 @@
 ---
 title: Calender Crew
 layout: template
-filename: index.md
+filename: index
 --- 
 
 

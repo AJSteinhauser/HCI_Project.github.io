@@ -1,7 +1,7 @@
 ---
-title: Milestone 1
+title: Milestone 2
 layout: template
-filename: index.md
+filename: milestone2
 --- 
 
 
