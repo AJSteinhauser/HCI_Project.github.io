@@ -4,6 +4,8 @@ layout: template
 filename: milestone2
 --- 
 
+[Discussion Video](https://youtu.be/8W0x4gKHio0)
+
 
 # MILESTONE 2
 
