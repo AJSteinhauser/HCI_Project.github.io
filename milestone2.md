@@ -58,8 +58,6 @@ Zoom adheres to the principle of Sneiderman’s straight forward design dialogs 
 We believe that Piazza lacks in all eight of the Sneiderman’s golden rules. Piazza’s signifiers are inconsistent across the interface. For instance, many action buttons are represented as normal HTML buttons, while others appear as hyperlinks, but they both serve the same function. Piazza also lacks features that address accessibility for all users. The user interface does not offer any sufficient alternatives for the visually impaired, for example. Piazza contains a lot of features for the user to customize their post; however, as previously mentioned, when Piazza is used on highly active threads, it is common for the user to feel as if they have lost control. As Piazza updates, it scrolls back to the top of the page forcing the user to scroll back down to the post they were editing. While piazza is a highly customizable and powerful tool for creating customized posts, an added layer of complexity is added to the users which is not needed for most discussion use cases. Piazza also lacks discoverability. The user interface is not simple for novice users to navigate and lacks the proper signifiers to help guide the user. Piazza is what ultimately inspired us to envision a solution that combines the positives and improves on the negatives of already implemented applications to create a tool that simplifies the interface for easy in-class discussions. 
 
 
-**Potential Guidelines and Solutions**
-
 
 
 ## C. Proposed Solution
