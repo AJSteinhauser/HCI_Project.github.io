@@ -1,6 +1,6 @@
 ---
 title: Testing_Page
-layout: milestrone3_template
+layout: milestone3_template
 filename: testing
 --- 
 
