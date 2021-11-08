@@ -70,6 +70,10 @@ filename: milestone3
 
 ---
 
+### High Fidelity Design 
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Ffm6z7EuVzI5dytvOAyj4m3%2FMilestone3%3Fnode-id%3D2%253A3" allowfullscreen></iframe>
+
 
 We believe that user story 1.1 was the most important to our design because it had many of the features needed that we dove into researching in our previous milestone. Much of the research we did was around giving students more comfort in classroom discussions. We found that there is a positive trend in the relationship between social anxiety and discomfort in a discussion based class with a p-value < 0.001 (Cohen).  This led us to choosing this design of allowing students time to formulate their thoughts and take time to construct their answers without others influence.
 
@@ -77,12 +81,6 @@ We earlier found, “Normative influence leads people to conform because they fe
 
 Another design decision we made is a simplistic interface. We wanted to make sure that students did not feel overwhelmed by what the UI had to offer and instead felt a sense of comfort in using it to answer their questions. In this user story it truly puts students first and that is what we are trying to solve. Making students more comfortable in a discussion class and giving them the tools to succeed is what we believe this user story can do.
 
-
----
-
-### High Fidelity Design 
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Ffm6z7EuVzI5dytvOAyj4m3%2FMilestone3%3Fnode-id%3D2%253A3" allowfullscreen></iframe>
 
 ---
 
