@@ -109,6 +109,23 @@ Another design decision we made is a simplistic interface. We wanted to make sur
 
 
 
+### Sources ###
+
+
+1. Asch, Solomon E. Social Psychology. Oxford University Press, 1987.
+
+2. Cohen, Matthew, et al. “Think, Pair, Freeze: The Association between Social Anxiety and Student Discomfort in the Active Learning Environment.” Scholarship of Teaching and Learning in Psychology, vol. 5, no. 4, Dec. 2019, pp. 265–277. EBSCOhost, doi:10.1037/stl0000147. https://web.b.ebscohost.com/ehost/detail/detail?vid=0&sid=8197e0dc-ba1d-444a-8bca-e9bca746ce55%40sessionmgr101&bdata=JkF1dGhUeXBlPWlwLHNoaWImc2l0ZT1laG9zdC1saXZlJnNjb3BlPXNpdGU%3d#AN=2019-30734-001&db=psyh  
+
+3. LaMorte, Wayne W. “Behavioral Change Models.” The Social Cognitive Theory, Boston University School of Public Health, https://sphweb.bumc.bu.edu/otlt/mph-modules/sb/behavioralchangetheories/behavioralchangetheories5.html. 
+
+4. Mattick RP, Clarke JC. Development and validation of measures of social phobia scrutiny fear and social interaction anxiety. Behav Res Ther. 1998 Apr;36(4):455-70. doi: 10.1016/s0005-7967(97)10031-6. PMID: 9670605. https://pubmed.ncbi.nlm.nih.gov/9670605/ 
+
+5. Norman, Donald A. The Design of Everyday Things. Basic Books, 2013.
+
+6. Scott MacKenzie. Chapter 1: Historical Context. In Human-Computer Interaction: An Empirical Research Perspective. Morgan Kaufmann, Amsterdam, 2013.  
+
+7. Shneiderman, Ben , et al. The Eight Golden Rules of Interface Design. In Designing the User Interface 6th Edition. Pearson, 2017.  
+
 
 
 
