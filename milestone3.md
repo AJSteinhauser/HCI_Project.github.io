@@ -6,7 +6,9 @@ filename: milestone3
 
 # MILESTONE 3
 
-[Discussion Video](https://youtu.be/8W0x4gKHio0)
+[Discussion Video]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ceIEcW76YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Breakdown proposed solutions into related user stories
 
