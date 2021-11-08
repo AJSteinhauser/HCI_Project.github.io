@@ -109,7 +109,7 @@ Another design decision we made is a simplistic interface. We wanted to make sur
 
 
 
-### Sources ###
+#### Sources
 
 
 1. Asch, Solomon E. Social Psychology. Oxford University Press, 1987.
