@@ -6,6 +6,17 @@ filename: milestone4
 
 # MILESTONE 4
 
+## Prototypes 
+
+### Student View
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Ffm6z7EuVzI5dytvOAyj4m3%2FMilestone3%3Fnode-id%3D575%253A1018" allowfullscreen></iframe>
+
+### Teacher View
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Ffm6z7EuVzI5dytvOAyj4m3%2FMilestone3%3Fnode-id%3D670%253A1640" allowfullscreen></iframe>
+
+## Research 
+
 ### Research Question
 
 How can current features included in in-class discussion software tools, such as Piazza and TopHat, be improved to help limit social anxiety and conformity, while encouraging the student to participate in the discussion openly and honestly? 
@@ -21,11 +32,19 @@ For the observational experiment, we plan to have two groups: an experimental gr
 
 ### Questionnaire/Survey
 
-After conducting the observational study, we will also ask each participant to fill out a survey or questionnaire to receive feedback about their experience. We will ask different questions regarding the ease of use of the application and how they felt in sharing their responses. Additionally, for the experimental group, we will include some questions specific to the software for the participants to provide feedback on their experience using it in class. For example, we will have the participants rate on a scale of 1 to 10 how easy the application was to use overall, with 10 being the easiest. For the main survey, we might ask how comfortable they were in sharing their opinion on a scale of 1 to 10, with 10 being the most comfortable. Asking these types of questions will help us to gain quantitative data to analyze the overall experience of the participants. We will also include an open ended question where the participants can write both positive and negative aspects about the experience and if they have any ideas for improvements. We think it is also important to have the participants rank different features included in the application to understand more about the actual user experience of the application. For example, we will have the participants rank the importance of having the choice to decide if they want to remain anonymous or attach their name to their response to see if this feature included in our application actually made a difference in their experience. 
+After conducting the observational study, we will also ask each participant to fill out a survey or questionnaire to receive feedback about their experience. We will ask different questions regarding the ease of use of the application and how they felt in sharing their responses. Additionally, for the experimental group, we will include some questions specific to the software for the participants to provide feedback on their experience using it in class. For example, we will have the participants rate on a scale of 1 to 10 how easy the application was to use overall, with 10 being the easiest. For the main survey, we might ask how comfortable they were in sharing their opinion on a scale of 1 to 10, with 10 being the most comfortable. Asking these types of questions will help us to gain quantitative data to analyze the overall experience of the participants. We will also include an open ended question where the participants can write both positive and negative aspects about the experience and if they have any ideas for improvements. We think it is also important to have the participants rank different features included in the application to understand more about the actual user experience of the application. For example, we will have the participants rank the importance of having the choice to decide if they want to remain anonymous or attach their name to their response to see if this feature included in our application actually made a difference in their experience.
+
+#### Experimental Survey
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScaoo_VyXPEYDUJvL85FCONwZSBwH4Arx0cjMplEyN-0mcBoQ/viewform?embedded=true" width="640" height="1741" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+#### Control Survey
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdHcFSrGbDQwXKRur4V0wt57JUVx_mgJyWsWUKnLFZgCoeXvQ/viewform?embedded=true" width="640" height="1811" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ### Testing Procedures and Analysis
 
-Since the study will take place in a classroom at the university of Georgia, we will adhere to the same Covid-19 safety guidelines put in place by the University. We will recommend that everyone wear masks, and any researchers in the room will be masked. For our testing procedure, we will ensure that every student participant understands the nature of our study and has agreed to participate by having them sign the informed consent form below.
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vS2B6UH23xIwbkZu0JWpYPx7yNxxeIeqLf_demCchHz62qBiIaWXSSGqvUtGu9mRpo4kYUBcDXQxOjb/pub?embedded=true"></iframe>Since the study will take place in a classroom at the university of Georgia, we will adhere to the same Covid-19 safety guidelines put in place by the University. We will recommend that everyone wear masks, and any researchers in the room will be masked. For our testing procedure, we will ensure that every student participant understands the nature of our study and has agreed to participate by having them sign the informed consent form below.
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vS2B6UH23xIwbkZu0JWpYPx7yNxxeIeqLf_demCchHz62qBiIaWXSSGqvUtGu9mRpo4kYUBcDXQxOjb/pub?embedded=true"></iframe>
 
 Each group will participate in a discussion based class period; the experimental group will use our software, and the control will not. We will save the students' responses and make note of any differences in willingness to share their opinions openly. After the period, we will also collect data from the students via survey. The survey will provide both quantitative and qualitative data, which will allow us to analyze any differences in responses from the control group and experimental group. An example of the survey is shown below. 
 
