@@ -39,7 +39,7 @@ After conducting the observational study, we will also ask each participant to f
 
 Since the study will take place in a classroom at the university of Georgia, we will adhere to the same Covid-19 safety guidelines put in place by the University. We will recommend that everyone wear masks, and any researchers in the room will be masked. For our testing procedure, we will ensure that every student participant understands the nature of our study and has agreed to participate by having them sign the informed consent form below.
 
-<iframe width="640" src="https://docs.google.com/document/d/e/2PACX-1vS2B6UH23xIwbkZu0JWpYPx7yNxxeIeqLf_demCchHz62qBiIaWXSSGqvUtGu9mRpo4kYUBcDXQxOjb/pub?embedded=true"></iframe>
+<iframe width="640" height="800" src="https://docs.google.com/document/d/e/2PACX-1vS2B6UH23xIwbkZu0JWpYPx7yNxxeIeqLf_demCchHz62qBiIaWXSSGqvUtGu9mRpo4kYUBcDXQxOjb/pub?embedded=true"></iframe>
 
 Each group will participate in a discussion based class period; the experimental group will use our software, and the control will not. We will save the students' responses and make note of any differences in willingness to share their opinions openly. After the period, we will also collect data from the students via survey. The survey will provide both quantitative and qualitative data, which will allow us to analyze any differences in responses from the control group and experimental group. An example of the survey is shown below. 
 
