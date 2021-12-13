@@ -1,7 +1,7 @@
 ---
 title: Milestone 4
 layout: template
-filename: milestone
+filename: milestone4
 --- 
 
 # MILESTONE 4
