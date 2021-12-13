@@ -9,11 +9,11 @@ filename: milestone4
 ## Prototypes 
 
 ### Student View
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Ffm6z7EuVzI5dytvOAyj4m3%2FMilestone3%3Fnode-id%3D577%253A1290%26scaling%3Dmin-zoom%26page-id%3D575%253A1018%26starting-point-node-id%3D577%253A1290" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Ffm6z7EuVzI5dytvOAyj4m3%2FMilestone3%3Fnode-id%3D577%253A1290%26scaling%3Dscale-down%26page-id%3D575%253A1018%26starting-point-node-id%3D577%253A1290" allowfullscreen></iframe>
 
 ### Teacher View
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Ffm6z7EuVzI5dytvOAyj4m3%2FMilestone3%3Fnode-id%3D695%253A1889%26scaling%3Dmin-zoom%26page-id%3D670%253A1640%26starting-point-node-id%3D695%253A1889" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Ffm6z7EuVzI5dytvOAyj4m3%2FMilestone3%3Fnode-id%3D695%253A1889%26scaling%3Dscale-down%26page-id%3D670%253A1640%26starting-point-node-id%3D695%253A1889" allowfullscreen></iframe>
 
 ## Research 
 
@@ -39,15 +39,15 @@ After conducting the observational study, we will also ask each participant to f
 
 Since the study will take place in a classroom at the university of Georgia, we will adhere to the same Covid-19 safety guidelines put in place by the University. We will recommend that everyone wear masks, and any researchers in the room will be masked. For our testing procedure, we will ensure that every student participant understands the nature of our study and has agreed to participate by having them sign the informed consent form below.
 
+<iframe width="640" height="1000" src="https://docs.google.com/document/d/e/2PACX-1vS2B6UH23xIwbkZu0JWpYPx7yNxxeIeqLf_demCchHz62qBiIaWXSSGqvUtGu9mRpo4kYUBcDXQxOjb/pub?embedded=true"></iframe>
+
+Each group will participate in a discussion based class period; the experimental group will use our software, and the control will not. We will save the students' responses and make note of any differences in willingness to share their opinions openly. After the period, we will also collect data from the students via survey. The survey will provide both quantitative and qualitative data, which will allow us to analyze any differences in responses from the control group and experimental group. An example of the survey is shown below. 
+
 #### Experimental Survey
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScaoo_VyXPEYDUJvL85FCONwZSBwH4Arx0cjMplEyN-0mcBoQ/viewform?embedded=true" width="640" height="1741" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 #### Control Survey
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdHcFSrGbDQwXKRur4V0wt57JUVx_mgJyWsWUKnLFZgCoeXvQ/viewform?embedded=true" width="640" height="1811" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-<iframe width="640" height="1741" src="https://docs.google.com/document/d/e/2PACX-1vS2B6UH23xIwbkZu0JWpYPx7yNxxeIeqLf_demCchHz62qBiIaWXSSGqvUtGu9mRpo4kYUBcDXQxOjb/pub?embedded=true"></iframe>
-
-Each group will participate in a discussion based class period; the experimental group will use our software, and the control will not. We will save the students' responses and make note of any differences in willingness to share their opinions openly. After the period, we will also collect data from the students via survey. The survey will provide both quantitative and qualitative data, which will allow us to analyze any differences in responses from the control group and experimental group. An example of the survey is shown below. 
 
 After receiving the completed surveys, we will compile the data and analyze the impact our software had on the students' experience in their discussion based classrooms. We will be looking for a decrease in stress levels and an increase in engagement, comfort, and overall quality of the discussion between groups. We will examine the numerical responses given for each question and generate a five number summary for each question (consisting of the smallest number, the first quartile, median, third quartile, and largest number), in addition to the mean. Using this data, we can determine the difference in the overall trends between the two groups.  
 	
