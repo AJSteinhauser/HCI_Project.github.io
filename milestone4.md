@@ -6,6 +6,30 @@ filename: milestone4
 
 # MILESTONE 4
 
+[Discussion Video]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZG8ZauKC8xY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+## User Stories 
+
+[1.1]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dhdksKy5Hxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+[1.4]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fcf6Bos_gX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[2.1]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CbxCi6duFlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[2.7]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RkyJh4vufHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Prototypes 
 
 ### Student View
@@ -14,6 +38,7 @@ filename: milestone4
 ### Teacher View
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Ffm6z7EuVzI5dytvOAyj4m3%2FMilestone3%3Fnode-id%3D695%253A1889%26scaling%3Dcontain%26page-id%3D670%253A1640%26starting-point-node-id%3D695%253A1889" allowfullscreen></iframe>
+
 
 ## Research 
 
@@ -50,5 +75,6 @@ Each group will participate in a discussion based class period; the experimental
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdHcFSrGbDQwXKRur4V0wt57JUVx_mgJyWsWUKnLFZgCoeXvQ/viewform?embedded=true" width="640" height="1811" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 After receiving the completed surveys, we will compile the data and analyze the impact our software had on the students' experience in their discussion based classrooms. We will be looking for a decrease in stress levels and an increase in engagement, comfort, and overall quality of the discussion between groups. We will examine the numerical responses given for each question and generate a five number summary for each question (consisting of the smallest number, the first quartile, median, third quartile, and largest number), in addition to the mean. Using this data, we can determine the difference in the overall trends between the two groups.  
-	
+
+
 
