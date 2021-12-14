@@ -9,24 +9,33 @@ filename: milestone4
 [Discussion Video]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZG8ZauKC8xY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 ## User Stories 
 
-[1.1]
+[1.1] - As a student, I would like to formulate my thoughts on a discussion question before other students give their answer so I am able to process the question and come up with my own thoughts. 
+
+This user story was chosen because it exemplifies our efforts to get students more comfortable in an in person discussion and affords students time to formulate their thoughts. Our goal is to lower conformity of student answers and give people time to plan and specify what the action of their goal will be. We believe this will then lead to higher completion and a better bridge of evaluation for the goal of student participation.
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dhdksKy5Hxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-[1.4]
+[1.4] - As a student, I would like to be able to respond anonymously to the discussion so that I can feel more comfortable sharing my ideas with the class.
+
+Oftentimes small groups of students will dominate the entire classroom discussion and many individuals do not want to interject in fear of being publicly wrong. By having the option for the student to submit their post anonymously, this will make the student feel more comfortable in sharing their true thoughts and opinions. Often times students will wait for validation before feeling confident in answering the question. We believe that by giving students the options to answer anonymously, this will encourage them to answer based on their own personal thoughts and beliefs. We also included an option for students to attach their names to their post if that is what they prefer. 
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fcf6Bos_gX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[2.1]
+[2.1] - As a teacher, I would like discussions to be organized and visually presented well so that there is little “user friction” in continuing discussions.
+
+If the user friction is mitigated during the discussion, it allows the students to focus all their attention on forming their thoughts and understanding what others have to say about the discussion topic. A platform like Piazza has a very complicated interface that creates a lot of interaction friction. Crucial buttons and settings are hidden away and are easily lost in the crowded UI. In this environment, it can be difficult for teachers to facilitate discussions in ways that make it clear to the students what is expected of them and how to produce the desired responses. By presenting the discussion topics alone on screen to the students and allowing the teacher to browse and select certain responses at any time, our interface affords the clear and concise setting of expectations and focused discussion.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CbxCi6duFlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[2.7]
+[2.7] - As a teacher, I would like to be able facilitate discussion in a variety of methods depending on the situation and nature of the topic.
+
+This user story represents our goal to create a discussion experience that minimizes monopolization of conversation by certain students to allow every student a chance to have their responses heard and discussed. We would like the instructor’s side of the interface to afford easy facilitation of these discussions via the ability such as randomize and other modes of discussion. This will allow for a more open discussion.
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RkyJh4vufHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -75,6 +84,32 @@ Each group will participate in a discussion based class period; the experimental
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdHcFSrGbDQwXKRur4V0wt57JUVx_mgJyWsWUKnLFZgCoeXvQ/viewform?embedded=true" width="640" height="1811" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 After receiving the completed surveys, we will compile the data and analyze the impact our software had on the students' experience in their discussion based classrooms. We will be looking for a decrease in stress levels and an increase in engagement, comfort, and overall quality of the discussion between groups. We will examine the numerical responses given for each question and generate a five number summary for each question (consisting of the smallest number, the first quartile, median, third quartile, and largest number), in addition to the mean. Using this data, we can determine the difference in the overall trends between the two groups.  
+
+#### Credits
+
+
+* Andino Rochon
+	* Generated user stories
+	* Set up Google Jam Board
+	* Developed wireframe for user story 1.1
+	* Designed high fidelity wireframe
+	* Built out prototype interactions
+* Aaron Daugherty
+	* Generated user stories
+	* Developed justification for selected user stories
+	* Developed wireframe for user story 2.1
+	* Testing Procedures
+* Caroline Lewis
+	* Generated user stories
+	* Developed justification for selected user stories
+	* Developed wireframe for user story 1.4
+	* Research and methodology
+* AJ Steinhauser
+	* Generated user stories
+	* Transferred document materials to project website
+	* Developed wireframe for user story 2.7
+	* Developed high fidelity prototypes for all user stories
+	* Managed and built Website.
 
 
 
